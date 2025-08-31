@@ -1,7 +1,6 @@
 Autonomous Vehicle Management System (AVMS)
 
-A Python-based implementation of an Autonomous Vehicle management system. This project leverages custom Abstract Data Types (ADTs)—Graph, Hash Table, and Heap—alongside Heapsort and Quicksort algorithms to manage a fleet of autonomous vehicles on a road network. Designed to demonstrate proficiency in Python, data structures, and algorithm design, this project is a key portfolio piece for internship applications in data science and technology.
-
+A Python-based implementation of an Autonomous Vehicle management system. This project leverages custom Abstract Data Types (ADTs)—Graph, Hash Table, and Heap—alongside Heapsort and Quicksort algorithms to manage a fleet of autonomous vehicles on a road network. Designed to demonstrate proficiency in Python, data structures, and algorithm design.
 
 Project Overview
 
